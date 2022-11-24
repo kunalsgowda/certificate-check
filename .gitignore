@@ -1,0 +1,4 @@
+.vscode/
+ServerList.txt
+__pycache__/
+*.log
